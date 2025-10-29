@@ -102,9 +102,8 @@ Ensure your environment includes:
 - The following ROS packages:
   ```bash
   sudo apt install ros-noetic-vision-opencv ros-noetic-cv-bridge ros-noetic-image-transport ros-noetic-cmd-vel-mux
-````
 
-* Python 3 with **OpenCV** installed:
+## Python 3 with **OpenCV** installed:
 
   ```bash
   pip install opencv-python
